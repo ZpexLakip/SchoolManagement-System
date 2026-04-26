@@ -1,4 +1,4 @@
-# SistemaEscolar-System
+# SchoolManagement-System
 
 ## Descrição
 
